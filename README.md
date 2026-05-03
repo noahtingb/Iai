@@ -1,4 +1,4 @@
-# Course-code ######
+# Course-code ??????
 
 Part 2 - Mnist 97.95% test accurrucy with hog + k-means + knn. 
 
